@@ -1,0 +1,13 @@
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\bin\Debug\netcoreapp3.1\processo_seletivo.exe
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\bin\Debug\netcoreapp3.1\processo_seletivo.deps.json
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\bin\Debug\netcoreapp3.1\processo_seletivo.runtimeconfig.json
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\bin\Debug\netcoreapp3.1\processo_seletivo.runtimeconfig.dev.json
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\bin\Debug\netcoreapp3.1\processo_seletivo.dll
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\bin\Debug\netcoreapp3.1\processo_seletivo.pdb
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\obj\Debug\netcoreapp3.1\processo_seletivo.csprojAssemblyReference.cache
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\obj\Debug\netcoreapp3.1\processo_seletivo.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\obj\Debug\netcoreapp3.1\processo_seletivo.AssemblyInfo.cs
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\obj\Debug\netcoreapp3.1\processo_seletivo.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\obj\Debug\netcoreapp3.1\processo_seletivo.dll
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\obj\Debug\netcoreapp3.1\processo_seletivo.pdb
+C:\Users\vinic\Desktop\processo\processo_seletivo\processo_seletivo\obj\Debug\netcoreapp3.1\processo_seletivo.genruntimeconfig.cache
